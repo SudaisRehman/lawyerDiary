@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360548959456",
+    "project_id": "lawyerdiary-807b1",
+    "storage_bucket": "lawyerdiary-807b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360548959456:android:02b73b8bf9da7ad86b7c85",
+        "android_client_info": {
+          "package_name": "com.example.lawyer_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwX4D_6HhvXRBpM8SaXBNOMoFSAZ8vJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
